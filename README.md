@@ -13,7 +13,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankbhagat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # My projects:
-Link:https://drive.google.com/drive/folders/1QeYCfATV2YZDme4vaTu18VUHcJFI7l3k?usp=sharing
+1) Project for hospital Manahement system using JAVA AND JDBC
+link:https://drive.google.com/drive/folders/1QeYCfATV2YZDme4vaTu18VUHcJFI7l3k?usp=sharing
+2) General code for Finetuning ML model named BERT (you can add our own dataset)
+Link:https://colab.research.google.com/drive/1YrKJqMaiqPW261YBXOeO-BwUcXhxB64G?usp=sharing
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mayankbhagat&icon=0&color=0)](https://visitcount.itsvg.in)
